@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Atualmente Estagiário TI, estou estudando Java, C#, Microsoft SQL Server.
+- 🌱 Atualmente  TI, estou estudando Java, C#, Microsoft SQL Server.
 - 📫 Contate-me no email: mateus.ieq32@gmail.com
 - 😄 Pronouns: ele/dele
 
